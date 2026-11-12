@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Azux" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/azux_black</item>
+        <item name="android:statusBarColor">@color/azux_black</item>
+        <item name="android:navigationBarColor">@color/azux_black</item>
+    </style>
+</resources>
